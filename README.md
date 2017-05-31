@@ -1,1 +1,2 @@
 # smartGuarantee
+line2
